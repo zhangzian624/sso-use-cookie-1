@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/sso-login/build/
+/sso-login/build/classes/java/main/
+/sso-mian/build/
+/sso-mian/build/classes/java/main/

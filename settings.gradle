@@ -1,0 +1,7 @@
+rootProject.name = 'sso-use-cookie'
+include 'sso-mian'
+include 'sso-vip'
+include 'sso-cart'
+include 'sso-login'
+include 'sso-login'
+
